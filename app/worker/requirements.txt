@@ -1,0 +1,4 @@
+ydb
+boto3
+requests
+reportlab
